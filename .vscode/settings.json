@@ -1,0 +1,10 @@
+{
+  "editor.tabSize": 2,
+  "editor.autoClosingBrackets": "always",
+  "editor.defaultFormatter": "SimonSiefke.prettier-vscode",
+  "editor.linkedEditing": false,
+  "editor.formatOnSave": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}

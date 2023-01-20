@@ -1,0 +1,102 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://cdn.notinoimg.com/detail_thumb/calvin-klein/3616301781127_01-o/calvin-klein-ck-everyone_.jpg",
+    "title": "Calvin Klein CK Everyone",
+    "types": [0, 1],
+    "sizes": [10, 20, 50],
+    "price": 803,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://cdn.notinoimg.com/detail_thumb/calvin-klein/3614225358463_01-o/calvin-klein-women___4.jpg",
+    "title": "Calvin Klein Women",
+    "types": [0],
+    "sizes": [10, 50],
+    "price": 245,
+    "category": 0,
+    "rating": 6
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://cdn.notinoimg.com/list_2k/armani/3614272907690_01-o.jpg",
+    "title": "Armani My way",
+    "types": [0],
+    "sizes": [10, 50],
+    "price": 295,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://cdn.notinoimg.com/list_2k/lanvin/3386460023337_01-o__26.jpg",
+    "title": "Lanvin Marry me!",
+    "types": [1],
+    "sizes": [10, 20, 50],
+    "price": 275,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://cdn.notinoimg.com/detail_thumb/chloe/chlchlw_aedp10_02-o/chloe-chloe___32.jpg",
+    "title": "Chloe Chloe",
+    "types": [0, 1],
+    "sizes": [10, 20, 50],
+    "price": 415,
+    "category": 3,
+    "rating": 8
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://cdn.notinoimg.com/detail_thumb/afnan/6290171040675_01-o/afnan-violet-bouquet_.jpg",
+    "title": "Afnan Violet Bouquet",
+    "types": [0],
+    "sizes": [20, 50],
+    "price": 580,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://cdn.notinoimg.com/list_2k/yves-saint-laurent/3614272648425_01-o.jpg",
+    "title": "Yves Saint Laurent Libre",
+    "types": [0, 1],
+    "sizes": [10, 20, 50],
+    "price": 675,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://cdn.notinoimg.com/list_2k/dior/3348901368247_01__5.jpg",
+    "title": "Dior Sauvage",
+    "types": [0, 1],
+    "sizes": [10, 20, 50],
+    "price": 450,
+    "category": 4,
+    "rating": 10
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://cdn.notinoimg.com/detail_thumb/karl-lagerfeld/3386460059114_01-o/karl-lagerfeld-karl-lagerfeld-for-her___21.jpg",
+    "title": "Karl Lagerfeld for Her",
+    "types": [0, 1],
+    "sizes": [10, 20, 50],
+    "price": 395,
+    "category": 5,
+    "rating": 10
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://cdn.notinoimg.com/list_2k/police/679602511216_01-o__17.jpg",
+    "title": "Police To Be The Queen",
+    "types": [0, 1],
+    "sizes": [10, 20, 50],
+    "price": 285,
+    "category": 5,
+    "rating": 7
+  }
+]

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_Parfumer/static/css/main.7f4b6862.css",
-    "main.js": "/React_Parfumer/static/js/main.7226ef70.js",
+    "main.js": "/React_Parfumer/static/js/main.baab5ae9.js",
     "Cart.js": "/React_Parfumer/static/js/Cart.440078d4.chunk.js",
     "FullParfum.js": "/React_Parfumer/static/js/FullParfum.445cd881.chunk.js",
     "NotFound.js": "/React_Parfumer/static/js/NotFound.f75dd735.chunk.js",
@@ -9,13 +9,13 @@
     "static/media/parfum-logo.svg": "/React_Parfumer/static/media/parfum-logo.6395f299cde29b91016c4dae3716fcaa.svg",
     "index.html": "/React_Parfumer/index.html",
     "main.7f4b6862.css.map": "/React_Parfumer/static/css/main.7f4b6862.css.map",
-    "main.7226ef70.js.map": "/React_Parfumer/static/js/main.7226ef70.js.map",
+    "main.baab5ae9.js.map": "/React_Parfumer/static/js/main.baab5ae9.js.map",
     "Cart.440078d4.chunk.js.map": "/React_Parfumer/static/js/Cart.440078d4.chunk.js.map",
     "FullParfum.445cd881.chunk.js.map": "/React_Parfumer/static/js/FullParfum.445cd881.chunk.js.map",
     "NotFound.f75dd735.chunk.js.map": "/React_Parfumer/static/js/NotFound.f75dd735.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f4b6862.css",
-    "static/js/main.7226ef70.js"
+    "static/js/main.baab5ae9.js"
   ]
 }
